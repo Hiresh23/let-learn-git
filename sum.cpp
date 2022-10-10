@@ -4,5 +4,5 @@ int main(){
     int a ,b;
     cin>>a>>b;
     int sum = a+b;
-    cout<<sum;
+    cout<<"sum of numbers is"<<" "<<sum;
 }
